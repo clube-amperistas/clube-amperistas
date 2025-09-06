@@ -1,31 +1,25 @@
 # Amperistas
 
-## Sobre Nós
-O **Amperistas** é uma iniciativa de graduandos em computação. Nossa missão é instigar e introduzir curiosos e interessados na área de engenharia e desenvolvimento de sistemas embarcados. Destacamo-nos pela metodologia de ensino baseada em projetos e resolução de problemas, além de incentivar a colaboração entre membros e o trabalho em equipe.
+## Sobre Nós  
+O Amperistas é um clube de estudantes de computação com foco em engenharia e desenvolvimento de sistemas embarcados. Usamos uma abordagem prática, baseada em projetos, para que os membros aprendam por meio da resolução de problemas e trabalho em equipe.
 
-## Projetos
-Atualmente, estamos desenvolvendo o seguinte projeto:
+## Projetos  
+O projeto atual é um sistema de contagem de pessoas presentes, usando sensores HC-SR04, Arduíno Uno, display SPI e LEDs para acompanhar e exibir em tempo real o número de pessoas presentes na sala
+[![Contagem de entrada](https://github-readme-stats.vercel.app/api/pin/?username=clube-amperistas&repo=sistema-de-entrada&description_lines_count=5&theme=github_dark_dimmed&hide_border=true)](https://github.com/clube-amperistas/sistema-de-entrada)
 
-### Sistema de Detecção de Presença
-Um sistema eletrônico digital que detecta a entrada de um aluno na sala de aula, acionando uma sinalização visual (LED) e incrementando um contador. O valor atualizado do contador é exibido em um display, permitindo o acompanhamento visual do número de alunos presentes em tempo real. Confira o repositório abaixo!  
-  
-[![Embedded Journey](https://github-readme-stats.vercel.app/api/pin/?username=clube-amperistas&repo=sistema-de-entrada&description_lines_count=5&theme=github_dark_dimmed&hide_border=true)](https://github.com/clube-amperistas/sistema-de-entrada)
+Planejamos desenvolver outros projetos com:
+* Estação meterológica miniaturalizada;
+* Visão computacional;
+* Sistema de controle por voz;
 
-### Projetos Futuros
-Planejamos produzir um projeto por mês, explorando diferentes componentes em contextos e problemáticas que remetam a sistemas reais, como:
-- Sistema de monitoramento de plantas com sensores de temperatura, umidade e luz.
-- Sistema controlados por comando de voz.
-
-## Como Participar
-O clube está em fase de testes e não aceita novos membros no momento, acompanhe o perfil para ficar em dia com atualizações nos métodos de adesão.
+## Recrutamento
+No momento, o clube não está recrutando novos membros. Para mais informações, entre em contato com, João Henrique.
 
 ## Membros
+
 - [João Henrique](https://github.com/joaohgp-dev) - Fundador do clube
 - [Adrian Gabriel](https://github.com/T4kyo) - Membro da direção do clube
-- [Arthur Albuquerque](https://github.com/SrDoppelganger) - Membro da direção do clube
-- [Radrixila Cinthin](https://github.com/RaCinthia) - Membra da direção do clube
+- [Arthur Albuquerque](https://github.com/SrDoppelganger) - Membro do clube
+- [Radrigyla Cinthia](https://github.com/RaCinthia) - Membra da direção do clube
 - [Samuel Levi](https://github.com/samuellevidev) - Membro da direção do clube
 - [Tomaz Arlindo](https://github.com/Tomaz-Arlindo) - Membro da direção do clube
-
-## Contato
-Para mais informações, entre em contato com [João Henrique](https://github.com/joaohgp-dev).
